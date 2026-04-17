@@ -1,7 +1,6 @@
 
 {
-    "pack": 
-    {
+    "pack": {
         "description": "myDatapack resource pack",
         "min_format": 46,
         "max_format": 84
