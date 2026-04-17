@@ -17,8 +17,8 @@
         "count": 1,
         "components": 
         {
-            "minecraft:item_model": "minecraft:carrot",
-            "minecraft:item_name": "carrot soup just looks like carrot for now"
+            "minecraft:item_model": "sadbunny:carrot_soup",
+            "minecraft:item_name": "Carrot Soup"
         }
     }
 }
