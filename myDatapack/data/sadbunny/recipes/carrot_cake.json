@@ -1,0 +1,22 @@
+{
+    "type": "crafting_shaped",
+    "category":"misc",
+    "pattern": 
+    [
+        "WW#",
+        "SE#",
+        "MM#"
+    ],
+    "key": 
+    {
+        "W": "minecraft:wheat",
+        "S": "minecraft:sugar",
+        "E": "#minecraft:eggs",
+        "M": "minecraft:milk_bucket",
+        "#": "minecraft:carrot"
+    },
+    "result": 
+    {
+        "id": "sadbunny:carrot_cake"
+    }
+}
