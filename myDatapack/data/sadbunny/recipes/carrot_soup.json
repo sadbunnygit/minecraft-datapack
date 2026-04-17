@@ -1,32 +1,19 @@
 {
     "type": "minecraft:crafting_shapeless",
-    "category": "food",
-    "ingredients": [
-        [
+    "category": "misc",
+    "ingredients": 
+    [
+        "minecraft:bowl",
+        "minecraft:carrot",
+        "minecraft:carrot",
+        "minecraft:carrot",
+        "minecraft:carrot",
+        "minecraft:carrot",
         "minecraft:carrot"
-        ],
-        [
-        "minecraft:carrot"
-        ],
-        [
-        "minecraft:carrot"
-        ],
-        [
-        "minecraft:carrot"
-        ],
-        [
-        "minecraft:carrot"
-        ],
-        [
-        "minecraft:carrot"
-        ],
-        [
-        "minecraft:bowl"
-        ]
     ],
     "result": 
     {
         "id": "minecraft:beetroot_soup",
         "count": 1
     }
-    }
+}
