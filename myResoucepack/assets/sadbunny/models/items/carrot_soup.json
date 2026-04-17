@@ -1,0 +1,7 @@
+{
+    "parent": "item/generic",
+    "textures": 
+    {
+        "layer0": "sadbunny:item/carrot_soup"
+    }
+}
