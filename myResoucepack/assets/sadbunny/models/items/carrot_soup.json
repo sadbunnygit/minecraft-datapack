@@ -1,5 +1,5 @@
 {
-    "parent": "item/generic",
+    "parent": "item/generated",
     "textures": 
     {
         "layer0": "sadbunny:item/carrot_soup"
