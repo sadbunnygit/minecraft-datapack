@@ -14,6 +14,11 @@
     "result": 
     {
         "id": "minecraft:beetroot_soup",
-        "count": 1
+        "count": 1,
+        "components": 
+        {
+            "minecraft:item_model": "minecraft:carrot",
+            "minecraft:item_name": "carrot soup just looks like carrot for now"
+        }
     }
 }
