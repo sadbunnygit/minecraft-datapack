@@ -1,10 +1,10 @@
 {
     "textures": {
-        "particle": "block/cake_side",
-        "bottom": "block/cake_bottom",
-        "top": "block/cake_top",
-        "side": "block/cake_side",
-        "inside": "block/cake_inner"
+        "particle": "sadbunny:block/carrot_cake_side",
+        "bottom": "sadbunny:carrot_cake_bottom",
+        "top": "sadbunny:carrot_cake_top",
+        "side": "sadbunny:carrot_cake_side",
+        "inside": "sadbunny:carrot_cake_inner"
     },
     "elements": [
         {   "from": [ 9, 0, 1 ],
