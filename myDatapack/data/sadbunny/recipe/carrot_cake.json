@@ -21,7 +21,7 @@
         "count": 1,
         "components": 
         {
-            "minecraft:item_model": "sadbunny:carrot_cake",
+            "minecraft:item_model": "minecraft:carrot",
             "minecraft:item_name": "Carrot Cake"
         }
     }
