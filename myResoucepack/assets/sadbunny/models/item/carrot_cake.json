@@ -2,6 +2,6 @@
     "parent": "item/generated",
     "textures": 
     {
-        "layer0": "sadbunny:item/carrot_cake"
+        "layer0": "sadbunny:item/carrot_soup"
     }
 }
