@@ -1,0 +1,30 @@
+{
+	"criteria": 
+    {
+		"placed_carrot_cake": 
+        {
+			"trigger": "placed_block",
+			"conditions": 
+            {
+				"location": 
+                [
+					{
+						"condition": "minecraft:match_tool",
+						"predicate":
+                        {
+							"items": "cake",
+							"components": 
+                            {
+								"item_model": "sadbunny:carrot_cake"
+							}
+						}
+					}
+				]
+			}
+		}
+	},
+	"rewards": 
+    {
+		"function": "sadbunny:carrot_cake/placed"
+	}
+}
