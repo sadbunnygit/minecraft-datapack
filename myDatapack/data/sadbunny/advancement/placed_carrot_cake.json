@@ -25,6 +25,10 @@
 	},
 	"rewards": 
     {
-		"function": "sadbunny:carrot_cake/placed"
+		"function": "sadbunny:carrot_cake/placed",
+        "loot": 
+        [
+			"minecraft:blocks/acacia_sapling"
+		]
 	}
 }
