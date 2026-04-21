@@ -1,0 +1,72 @@
+{
+	"model": 
+    {
+		"type": "select",
+		"property": "custom_model_data",
+        "fallback": 
+        {
+			"type": "model",
+			"model": "minecraft:item/cake"
+		},
+		"cases": 
+        [
+			{
+				"when": "carrot_cake",
+				"model": 
+                {
+					"type": "minecraft:model",
+					"model": "sadbunny:block/carrot_cake"
+				}
+			},
+			{
+				"when": "carrot_cake_slice1",
+				"model": 
+                {
+					"type": "minecraft:model",
+					"model": "sadbunny:block/carrot_cake_slice1"
+				}
+			},
+			{
+				"when": "carrot_cake_slice2",
+				"model": 
+                {
+					"type": "minecraft:model",
+					"model": "sadbunny:block/carrot_cake_slice2"
+				}
+			},
+			{
+				"when": "carrot_cake_slice3",
+				"model": 
+                {
+					"type": "minecraft:model",
+					"model": "sadbunny:block/carrot_cake_slice3"
+				}
+			},
+			{
+				"when": "carrot_cake_slice4",
+				"model": 
+                {
+					"type": "minecraft:model",
+					"model": "sadbunny:block/carrot_cake_slice4"
+				}
+			},
+			{
+				"when": "carrot_cake_slice5",
+				"model": 
+                {
+					"type": "minecraft:model",
+					"model": "sadbunny:block/carrot_cake_slice5"
+				}
+			},
+			{
+				"when": "carrot_cake_slice6",
+				"model": 
+                {
+					"type": "minecraft:model",
+					"model": "sadbunny:block/carrot_cake_slice6"
+				}
+			}
+		],
+		"index": 0
+	}
+}
