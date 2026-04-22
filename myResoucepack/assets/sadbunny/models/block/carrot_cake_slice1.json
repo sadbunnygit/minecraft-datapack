@@ -1,15 +1,19 @@
 {
-    "textures": {
+    "textures": 
+    {
         "particle": "sadbunny:block/carrot_cake_side",
         "bottom": "sadbunny:block/carrot_cake_bottom",
         "top": "sadbunny:block/carrot_cake_top",
         "side": "sadbunny:block/carrot_cake_side",
         "inside": "sadbunny:block/carrot_cake_inner"
     },
-    "elements": [
-        {   "from": [ 3, 0, 1 ],
+    "elements": 
+    [
+        {   
+            "from": [ 3, 0, 1 ],
             "to": [ 15, 8, 15 ],
-            "faces": {
+            "faces": 
+            {
                 "down":  { "texture": "#bottom", "cullface": "down" },
                 "up":    { "texture": "#top" },
                 "north": { "texture": "#side" },
