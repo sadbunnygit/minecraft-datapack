@@ -1,0 +1,1 @@
+give @s cake[item_name="Carrot Cake",item_model="sadbunny:carrot_cake"]
