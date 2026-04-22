@@ -1,6 +1,6 @@
 say "debug note: running sadbunny:function/raycast/start" 
 tag @s add raycaster
-scoreboard players set .raycastLimit raycast 1000
+scoreboard players set .raycastLimit raycast 2048
 execute at @s anchored eyes positioned ^ ^ ^.1 run function sadbunny:raycast/raycast
 
 #execute store result score @s dnv.baking.raycast_range run attribute @s block_interaction_range get -10

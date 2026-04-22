@@ -1,4 +1,4 @@
-say "debug note: running sadbunny:function/raycast/start" 
+say "debug note: running sadbunny:function/raycast/raycast" 
 # Remove one from the raycast limit
 scoreboard players remove .raycastLimit raycast 1
 # DEBUG: display a particle
