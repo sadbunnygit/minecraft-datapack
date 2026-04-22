@@ -15,7 +15,7 @@ An experimental Minecraft datapack for me to learn different ways of doing thing
 7.  Run `/reload` in-game or restart your world.
 
 ## Authors
-[https://github.com/sadbunnygit]@sadbunnygit
+[@sadbunnygit](https://github.com/sadbunnygit)
 
 ## Sources Used during Creation
 
