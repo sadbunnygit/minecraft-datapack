@@ -1,6 +1,5 @@
 {
     "type": "minecraft:smithing_transform",
-    "addition": "#minecraft:trim_materials",
     "base": "#minecraft:foot_armor",
     "template": "minecraft:minecart",
     "result": 
@@ -11,11 +10,11 @@
             "minecraft:trim":
             {   
                 "pattern":"sadbunny:roller_skates",
-                "material":"emerald"
+                "material":"amethyst"
             },
             "minecraft:enchantments":
             {
-                "minecraft:mending":1
+                "sadbunny:roller_skates":1
             }   
         }
     }
