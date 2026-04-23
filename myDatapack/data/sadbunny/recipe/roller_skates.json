@@ -1,7 +1,7 @@
 {
     "type": "minecraft:smithing_trim",
     "addition": "#minecraft:trim_materials",
-    "base": "#minecraft:trimmable_armor",
+    "base": "#minecraft:foot_armor",
     "template": "minecraft:minecart",
     "pattern": "sadbunny:roller_skates"
 }
