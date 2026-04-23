@@ -4,7 +4,7 @@
     "template": "minecraft:minecart",
     "result": 
     {
-        "id": "minecraft:iron_boots",
+        "id": "minecraft:mail_boots",
         "components":
         {
             "minecraft:trim":
