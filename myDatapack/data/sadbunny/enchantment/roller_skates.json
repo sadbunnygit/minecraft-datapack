@@ -1,17 +1,13 @@
 {
     
     "description": "Roller Skates",
-    "supported_items": "#minecraft:foot_armor",
+    "supported_items": "#minecraft:enchantable/foot_armor",
     "anvil_cost": 4,
     "effects": 
     {
         "minecraft:tick": 
         [
             {
-                "requirements": 
-                {
-                    
-                },
                 "effect": 
                 {
                     "type": "minecraft:apply_mob_effect",
@@ -37,7 +33,7 @@
     },
     "slots": 
     [
-        "foot"
+        "feet"
     ],
     "weight": 2
 }
