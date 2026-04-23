@@ -1,7 +1,21 @@
 {
-    "type": "minecraft:smithing_trim",
+    "type": "minecraft:smithing_transform",
     "addition": "#minecraft:trim_materials",
     "base": "#minecraft:foot_armor",
     "template": "minecraft:minecart",
-    "pattern": "sadbunny:roller_skates"
+    "result": 
+    {
+        "id": "minecraft:iron_boots",
+        "components":
+        {
+            "minecraft:trim":
+            {   
+                "pattern":"sadbunny:roller_skates"
+            },
+            "minecraft:enchantments":
+            {
+                
+            }
+        }
+    }
 }
