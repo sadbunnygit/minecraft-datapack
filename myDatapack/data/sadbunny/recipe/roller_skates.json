@@ -15,7 +15,8 @@
             "minecraft:enchantments":
             {
                 "sadbunny:roller_skates":1
-            }   
+            },
+            "minecraft:enchantment_glint_override":false 
         }
     }
 }
