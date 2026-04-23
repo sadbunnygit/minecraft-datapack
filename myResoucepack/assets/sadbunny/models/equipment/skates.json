@@ -1,0 +1,12 @@
+{
+	"layers": {
+		"humanoid": [
+			{
+				"texture": "minecraft:chainmail",
+				"dyeable": {
+					"color_when_undyed": 12355325
+				}
+			}
+		]
+	}
+}
