@@ -5,6 +5,7 @@
             "type": "minecraft:paletted_permutations",
             "textures": 
             [
+                "sadbunny:trims/entity/humanoid/roller_skates",
                 "sadbunny:trims/entity/humanoid_leggings/roller_skates"
             ],
             "palette_key": "trims/color_palettes/trim_palette",
