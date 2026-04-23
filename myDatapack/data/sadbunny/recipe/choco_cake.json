@@ -1,0 +1,28 @@
+{
+    "type": "crafting_shaped",
+    "category":"misc",
+    "pattern": 
+    [
+        "MM#",
+        "SE#",
+        "WW#"
+    ],
+    "key": 
+    {
+        "W": "minecraft:wheat",
+        "S": "minecraft:sugar",
+        "E": "#minecraft:eggs",
+        "M": "minecraft:milk_bucket",
+        "#": "minecraft:cocoa_beans"
+    },
+    "result": 
+    {
+        "id": "minecraft:cake",
+        "count": 1,
+        "components": 
+        {
+            "minecraft:item_model": "sadbunny:choco_cake",
+            "minecraft:item_name": "Choco Cake"
+        }
+    }
+}
