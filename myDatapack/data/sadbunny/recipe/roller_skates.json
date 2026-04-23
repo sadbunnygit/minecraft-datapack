@@ -10,12 +10,13 @@
         {
             "minecraft:trim":
             {   
-                "pattern":"sadbunny:roller_skates"
+                "pattern":"sadbunny:roller_skates",
+                "material":"emerald"
             },
             "minecraft:enchantments":
-            [
-                "minecraft:mending"
-            ]
+            {
+                "minecraft:mending":1
+            }   
         }
     }
 }
