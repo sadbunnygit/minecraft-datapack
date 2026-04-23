@@ -22,5 +22,14 @@
                 "east":  { "texture": "#side" }
             }
         }
-    ]
+    ],
+    "display": 
+    {
+		"fixed": 
+        {
+			"rotation": [-90,180,0],
+			"translation": [0,0,-16.01],
+			"scale": [2.01,2.01,2.01]
+		}
+	}
 }
