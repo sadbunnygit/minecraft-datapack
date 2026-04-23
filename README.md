@@ -18,4 +18,6 @@ An experimental Minecraft datapack for me to learn different ways of doing thing
 [@sadbunnygit](https://github.com/sadbunnygit)
 
 ## Sources Used during Creation
-
+#### *not direct pages but the overall source*
+- [https://minecraft.wiki/]
+- [https://datapack.wiki/]
