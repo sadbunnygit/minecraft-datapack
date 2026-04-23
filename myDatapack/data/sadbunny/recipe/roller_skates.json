@@ -13,9 +13,9 @@
                 "pattern":"sadbunny:roller_skates"
             },
             "minecraft:enchantments":
-            {
-                
-            }
+            [
+                "minecraft:mending"
+            ]
         }
     }
 }
