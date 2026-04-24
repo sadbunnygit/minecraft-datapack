@@ -7,6 +7,7 @@
         "id": "minecraft:leather_boots",
         "components":
         {
+            "minecraft:item_model": "sadbunny:roller_skates",
             "minecraft:trim":
             {   
                 "pattern":"sadbunny:roller_skates",
