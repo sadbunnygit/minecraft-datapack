@@ -3,7 +3,8 @@ An experimental Minecraft datapack for me to learn different ways of doing thing
 
 ## Features
 - Carrot Soup
-- Carrot Cake ( placement/eating not finished )
+![Carrot Soup Crafting Recipe](image/README/carrot_soup_crafting.png "Carrot Soup Crafting Recipe")
+- Carrot Cake 
 
 ## Installation
 1.  Navigate to your Minecraft world folder.
