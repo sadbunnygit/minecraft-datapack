@@ -4,7 +4,8 @@ An experimental Minecraft datapack for me to learn different ways of doing thing
 ## Features
 - Carrot Soup
 ![Carrot Soup Crafting Recipe](image/README/carrot_soup_crafting.png "Carrot Soup Crafting Recipe")
-- Carrot Cake 
+- Carrot Cake <img width="16" height="16" alt="image" src="https://github.com/user-attachments/assets/0e8fc8cf-e34c-4ef9-a3d3-b673b04dad7e" />
+
 
 ## Installation
 1.  Navigate to your Minecraft world folder.
